@@ -35,3 +35,7 @@ if you want file remove from cache area,and hope to save in current work directo
 
 ## git mv <file>
 to remove the file 
+
+## git push 
+push the content of cache into internet repository 
+format command git push <Remote host> <local brach> <remote brach>
