@@ -27,4 +27,8 @@
 [markdown](http://xianbai.me/learn-md/article/syntax/paragraphs-and-line-breaks.html)	
 
 ### 在markdown引用内容  
->在段落前面加入\>符号，代表此段是引用内容
+>在段落前面加入\>符号，代表此段是引用内容<br>
+
+### 在markdown里字体拜访位置选择
+<center>字体居中</center>
+<p align="left">字体居左 </p>
